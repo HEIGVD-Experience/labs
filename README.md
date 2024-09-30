@@ -18,6 +18,11 @@ Semester | Lesson | Documentations | Laboratories
 | S4 | EXP | [doc](https://github.com/HEIGVD-Experience/docs/blob/main/S4/EXP/docs) | [lab](https://github.com/HEIGVD-Experience/EXP-labs) |
 | S4 | ISI | [doc](https://github.com/HEIGVD-Experience/docs/blob/main/S4/ISI/docs) | [lab](https://github.com/HEIGVD-Experience/ISI-labs) |
 | S4 | WEB | [doc](https://github.com/HEIGVD-Experience/docs/blob/main/S4/WEB/docs) | [lab](https://github.com/HEIGVD-Experience/WEB-labs) |
+| S5 | AMT | [doc](https://github.com/HEIGVD-Experience/docs/blob/main/S5/AMT/docs) | [lab](https://github.com/HEIGVD-Experience/AMT-labs) |
+| S5 | MAT3 | [doc](https://github.com/HEIGVD-Experience/docs/blob/main/S5/MAT3/docs) | [lab](https://github.com/HEIGVD-Experience/MAT3-labs) |
+| S5 | PCO | [doc](https://github.com/HEIGVD-Experience/docs/blob/main/S5/PCO/docs) | [lab](https://github.com/HEIGVD-Experience/PCO-labs) |
+| S5 | PST | [doc](https://github.com/HEIGVD-Experience/docs/blob/main/S5/PST/docs) | [lab](https://github.com/HEIGVD-Experience/PST-labs) |
+| S5 | SYE | [doc](https://github.com/HEIGVD-Experience/docs/blob/main/S5/SYE/docs) | [lab](https://github.com/HEIGVD-Experience/SYE-labs) |
 
 # To Do
 <ul><li>- [ ] Move all old labs to this org</li></ul>
